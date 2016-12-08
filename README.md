@@ -1,6 +1,8 @@
+
+#AutoX to łatwe w instalacji, niewidoczne i skuteczne narzędzie do księgowości, które zapewni swięty spokój od papierkowej roboty.
+
+Mamy już gotowy produkt, który działa komercyjnie na realnych danych, jego dzialanie opiera się na Machine Learning.
+
 Więcej o projekcie AutoX dowiesz się z:
 
-* strony intrenetowej: infakt.com
-* preznetacji Dimy na AI Meetup #3 http://link_do_prezentacji.pl
-* prezentacji Sebastiana na AI Meetup #2 http://link_do_prezentacji.pl
-
+* strony intrenetowej: (http://infakt.com)
