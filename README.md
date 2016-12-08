@@ -6,3 +6,5 @@ Mamy już gotowy produkt, który działa komercyjnie na realnych danych, jego dz
 Więcej o projekcie AutoX dowiesz się z:
 
 * strony intrenetowej: (http://infakt.com)
+
+Jeśli interesuje Cię więciej szczegółów zapraszamy do kontaktu: autox@infakt.pl
